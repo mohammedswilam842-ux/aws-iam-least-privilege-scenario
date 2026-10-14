@@ -1,2 +1,1 @@
-# aws-iam-least-privilege-scenario
-AWS IAM least-privilege scenario with bad and corrected policies. Educational only.
+Add AWS IAM least-privilege scenario with full commands and explanations
